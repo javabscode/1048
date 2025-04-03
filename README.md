@@ -1,5 +1,7 @@
 # 1048 基于springboot企业OA管理系统设计与实现，附源码+数据库+论文+开题，包安装调试
 
+# [项目获取，看这里](https://mbd.pub/o/bread/mbd-aJWWk51u "项目获取，看这里")
+
 ## 1、项目介绍
 
 基于springboot企业OA管理系统设计与实现，分为用户和管理员
